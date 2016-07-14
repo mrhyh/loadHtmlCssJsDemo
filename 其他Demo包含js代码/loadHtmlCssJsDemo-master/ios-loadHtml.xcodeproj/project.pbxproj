@@ -18,8 +18,6 @@
 		0EA0DAF31AE76E9A00D972D8 /* ios_loadHtmlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EA0DAF21AE76E9A00D972D8 /* ios_loadHtmlTests.m */; };
 		0EA0DAFD1AE7717C00D972D8 /* index1.html in Resources */ = {isa = PBXBuildFile; fileRef = 0EA0DAFC1AE7717C00D972D8 /* index1.html */; };
 		0EA0DB051AE77C0B00D972D8 /* index1.js in Resources */ = {isa = PBXBuildFile; fileRef = 0EA0DB041AE77C0B00D972D8 /* index1.js */; };
-		EB8E35C91D373C1A00CC46F4 /* 1_detail.html in Resources */ = {isa = PBXBuildFile; fileRef = EB8E35C81D373C1A00CC46F4 /* 1_detail.html */; };
-		EB8E35CC1D373C2B00CC46F4 /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = EB8E35CB1D373C2B00CC46F4 /* arrow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,8 +48,6 @@
 		0EA0DAF21AE76E9A00D972D8 /* ios_loadHtmlTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ios_loadHtmlTests.m; sourceTree = "<group>"; };
 		0EA0DAFC1AE7717C00D972D8 /* index1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index1.html; sourceTree = "<group>"; };
 		0EA0DB041AE77C0B00D972D8 /* index1.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index1.js; sourceTree = "<group>"; };
-		EB8E35C81D373C1A00CC46F4 /* 1_detail.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 1_detail.html; sourceTree = "<group>"; };
-		EB8E35CB1D373C2B00CC46F4 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,11 +95,9 @@
 				0EA0DADE1AE76E9A00D972D8 /* ViewController.m */,
 				0EA0DAE01AE76E9A00D972D8 /* Main.storyboard */,
 				0EA0DAFC1AE7717C00D972D8 /* index1.html */,
-				EB8E35C81D373C1A00CC46F4 /* 1_detail.html */,
 				0E951A101B02FCD9006364B0 /* index1.css */,
 				0EA0DB041AE77C0B00D972D8 /* index1.js */,
 				0E951A0C1B02F8E5006364B0 /* image.png */,
-				EB8E35CA1D373C2B00CC46F4 /* images */,
 				0EA0DAE31AE76E9A00D972D8 /* Images.xcassets */,
 				0EA0DAE51AE76E9A00D972D8 /* LaunchScreen.xib */,
 				0EA0DAD61AE76E9A00D972D8 /* Supporting Files */,
@@ -135,14 +129,6 @@
 				0EA0DAF11AE76E9A00D972D8 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		EB8E35CA1D373C2B00CC46F4 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				EB8E35CB1D373C2B00CC46F4 /* arrow.png */,
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,8 +214,6 @@
 				0EA0DAE21AE76E9A00D972D8 /* Main.storyboard in Resources */,
 				0EA0DAE71AE76E9A00D972D8 /* LaunchScreen.xib in Resources */,
 				0EA0DAE41AE76E9A00D972D8 /* Images.xcassets in Resources */,
-				EB8E35C91D373C1A00CC46F4 /* 1_detail.html in Resources */,
-				EB8E35CC1D373C2B00CC46F4 /* arrow.png in Resources */,
 				0EA0DB051AE77C0B00D972D8 /* index1.js in Resources */,
 				0E951A111B02FCD9006364B0 /* index1.css in Resources */,
 				0EA0DAFD1AE7717C00D972D8 /* index1.html in Resources */,
